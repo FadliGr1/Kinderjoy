@@ -1,5 +1,4 @@
-Kelas : S1IF-07L
-
+Kelas : S1IF-07L__
 Nama TIM : Kinderjoy
 
 Project Manager : Fadli Gunawan Rizqianto / 19102017
