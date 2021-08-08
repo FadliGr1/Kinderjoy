@@ -1,17 +1,11 @@
 Kelas : S1IF-07L  
-Nama TIM : Kinderjoy
-
-Project Manager : Fadli Gunawan Rizqianto / 19102017
-
-Analyst : Riski Fitria Ardanu / 19102015
-
-Designer 1 : Ari Anggara / 19102010
-
-Designer 2 : Havizh Ashaq / 19102056
-
-Programmer 1 : Ishmat Aziz Ramadhan / 19102205
-
-Programmer 2 : Dimas Dwi Priyono / 19102187
+Nama TIM : Kinderjoy  
+Project Manager : Fadli Gunawan Rizqianto / 19102017  
+Analyst : Riski Fitria Ardanu / 19102015  
+Designer 1 : Ari Anggara / 19102010  
+Designer 2 : Havizh Ashaq / 19102056  
+Programmer 1 : Ishmat Aziz Ramadhan / 19102205  
+Programmer 2 : Dimas Dwi Priyono / 19102187  
 
 # SIMAKIR
 Aplikasi Sistem Manajemen parkir kendaraan
